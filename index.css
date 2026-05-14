@@ -89,7 +89,7 @@ a{
        background: linear-gradient(135deg,#0d1537, #111b37,#111827
        
     );
-    height: 900px;
+    height: 800px;
     width: 100%;
     display: flex;
     /* justify-content: center; */
@@ -100,7 +100,7 @@ a{
     
      width: 500px;
     border: 1px solid black;
-     margin-left: 800px;
+     margin-left: 400px;
      border-radius: 10px;
     
     background: linear-gradient(135deg,#0f172a,#1e293b);
